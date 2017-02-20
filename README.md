@@ -1,2 +1,2 @@
 # Bug_Swarm-
-Bug swarming simulation.
+Bug swarming simulation written in Racket. 
